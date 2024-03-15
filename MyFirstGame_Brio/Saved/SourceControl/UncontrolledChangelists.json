@@ -151,7 +151,16 @@
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/__ExternalActors__/Map/default/7/IB/7WRC6E0LFICE2R4WNNW94D.uasset",
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Map/default.umap",
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Blueprints/BP_ScoreManager.uasset",
-				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/__ExternalActors__/Map/default/1/DD/1ZOLXWK99O8RB5OCZJUL1D.uasset"
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/__ExternalActors__/Map/default/1/DD/1ZOLXWK99O8RB5OCZJUL1D.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Maps/Task3_NewLevel.umap",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Blueprints/Character/BP_NPC.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset"
 			]
 		}
 	]
