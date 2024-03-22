@@ -160,7 +160,21 @@
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Brick_Clay_New_Mat.uasset",
 				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Brick_Clay_Old_Mat.uasset",
-				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset"
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_Mat.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/Idle_Rifle_Hip.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/Idle_Rifle_Ironsights.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/Jog_Fwd_Rifle.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/IdleBlendSpace.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/ABP_ShooterAnim.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/FirstPerson/Input/IMC_Default.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/Fire_Rifle_Ironsights.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/Characters/AnimationShooter/Fire_Rifle_Ironsights_Montage.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"F:/Unreal/Repo/MyFirstGame_BrioAmarta/MyFirstGame_Brio/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset"
 			]
 		}
 	]
