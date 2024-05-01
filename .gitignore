@@ -67,7 +67,7 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-MyFirstGame_Brio/Saved/*
+MyFirstGame_Brio\Saved\*
 MyFirstGame_Brio/Intermediate/*
 MyFirstGame_Brio/Plugins/*/Intermediate/*
 MyFirstGame_Brio/DerivedDataCache/*
