@@ -79,3 +79,25 @@ MyFirstGame_Brio/*.uasset
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Windows specific package files
+*.pak
+*.sig
+*.bat
+*.ini
+
+# Unreal Engine intermediate files
+*.uasset
+*.umap
+
+# Compiled shaders
+*.usf
+*.ush
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore any user-specific settings files
+*.suo
+*.user
