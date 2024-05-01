@@ -73,6 +73,9 @@ MyFirstGame_Brio/Plugins/*/Intermediate/*
 MyFirstGame_Brio/DerivedDataCache/*
 MyFirstGame_Brio/.vsconfig 
 MyFirstGame_Brio/*.sln
+Intermediate/*
+Plugins/*/Intermediate/*
+
 
 # Cache files for the editor to use
 DerivedDataCache/*
