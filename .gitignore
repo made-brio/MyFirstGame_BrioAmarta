@@ -73,9 +73,9 @@ MyFirstGame_Brio/Plugins/*/Intermediate/*
 MyFirstGame_Brio/DerivedDataCache/*
 MyFirstGame_Brio/.vsconfig 
 MyFirstGame_Brio/*.sln
-Intermediate/*
-Plugins/*/Intermediate/*
 
+# Unreal Engine packages inside MyFirstGame_Brio folder
+MyFirstGame_Brio/*.uasset
 
 # Cache files for the editor to use
 DerivedDataCache/*
